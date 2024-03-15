@@ -290,7 +290,7 @@ run().catch(console.dir);
 
 
 app.get("/",(req,res) =>{
-res.send("Food shop server is running")
+res.send("Cources server is running")
 })
 app.listen(port,()=>{
     console.log(`server is running :${port}`);

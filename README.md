@@ -1,5 +1,5 @@
 
-# Food Shop
+# Cources
 
 ## Testing Admin Panel :
 
@@ -8,11 +8,11 @@
    Password:123456
 
  
-   ##   Live Site: https://foodshop1.vercel.app
+   ##   Live Site: https://cources.vercel.app
 
-   ##  Server Code: https://github.com/msomon/foodshop-server
+   ##  Server Code: https://github.com/msomon/cources-server
 
-   ##  Client Code: https://github.com/msomon/foodshop-clint
+   ##  Client Code: https://github.com/msomon/cources
 
 
 Overview
@@ -91,9 +91,9 @@ Clone this repository to your local machine.
 
 ### Run the command 
 
-git clone https://github.com/msomon/foodshop-clint
+git clone https://github.com/msomon/cources
 
-git clone https://github.com/msomon/foodshop-server
+git clone https://github.com/msomon/cources-server
 
 npm install 
 
